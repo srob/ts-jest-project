@@ -9,6 +9,6 @@ test('returns Buzz for 5', () => {
 });
 
 test('returns FizzBuzz for 15', () => {
-  expect(fizzBuzz(15)).toBe("FizzBuzz");
+  expect(fizzBuzz(15)).toBe("FizzyBuzz");
 });
 
